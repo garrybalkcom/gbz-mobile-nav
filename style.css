@@ -77,13 +77,13 @@ nav input[type="checkbox"]{
     font-size: 700;
 }
 /*mobile style*/
-@media(max-width:700px){
+@media(max-width:720px){
     nav label.menu-btn{
         display:block;
     }
     nav ul{
         position: fixed;
-        top:80px;
+        top:5%;
         left:-100%;
         height:100vh;
         background:#111;
@@ -104,7 +104,7 @@ nav input[type="checkbox"]{
     nav ul li a {
         width:100%;
         display:block;
-        font-size:20px;
+        font-size:16px;
         margin-left:-100%;
     }
   
