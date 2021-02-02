@@ -82,6 +82,7 @@ nav input[type="checkbox"]{
     nav label.menu-btn{
         display:block;
     }
+nav .logo{padding: 0 5px:}
     nav ul{
         position: fixed;
         top:0;
